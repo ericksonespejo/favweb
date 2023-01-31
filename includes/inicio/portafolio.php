@@ -23,7 +23,6 @@
                                     <div class="portfolio-caption">
                                         <h4>Puertas enrollables full visión</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
-                                        <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -34,7 +33,6 @@
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
-                                        <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -45,7 +43,6 @@
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
-                                        <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -56,7 +53,6 @@
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
-                                        <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -67,7 +63,6 @@
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
-                                        <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -78,7 +73,6 @@
                                     <div class="portfolio-caption">
                                         <h4>Portfolio Title</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
-                                        <a href="#portfolio-modal" data-toggle="modal" class="link-1"><i class="fa fa-magic"></i></a>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
