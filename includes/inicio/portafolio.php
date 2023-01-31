@@ -22,7 +22,7 @@
                                     <img src="images/portfolio/img1.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Puertas Enrollables</h4>
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
+                                        <p>Adaptamos la fabricación de nuestras puertas a las medidas que necesites, ofrecemos una amplia gama de accesorios a nivel de activación, control y seguridad.</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -32,7 +32,7 @@
                                     <img src="images/portfolio/img2.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Puertas Batientes</h4>
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
+                                        <p>Las puertas automáticas batientes son ideales para garajes de grandes dimensiones donde el movimiento de la puerta no interfiera con el estacionamiento del vehículo.</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -42,7 +42,7 @@
                                     <img src="images/portfolio/img3.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Puertas Seccionales</h4>
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
+                                        <p>El sistema seccional se caracteriza por ocupar el mínimo espacio posible, las vías de deslizamiento laterales y paralelas al techo para que se deslice verticalmente.</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
