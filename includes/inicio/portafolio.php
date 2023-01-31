@@ -21,7 +21,7 @@
                                 <div class="portfolio-item">
                                     <img src="images/portfolio/img1.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
-                                        <h4>Puertas enrollables</h4>
+                                        <h4>Puertas Enrollables</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
@@ -31,7 +31,7 @@
                                 <div class="portfolio-item">
                                     <img src="images/portfolio/img2.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
-                                        <h4>Puertas Vatientes</h4>
+                                        <h4>Puertas Batientes</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
@@ -41,7 +41,7 @@
                                 <div class="portfolio-item">
                                     <img src="images/portfolio/img3.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
-                                        <h4>Puertas seccionales</h4>
+                                        <h4>Puertas Seccionales</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
@@ -51,7 +51,7 @@
                                 <div class="portfolio-item">
                                     <img src="images/portfolio/img4.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
-                                        <h4>Portfolio Title</h4>
+                                        <h4>Puerta Corredizas</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
@@ -61,7 +61,7 @@
                                 <div class="portfolio-item">
                                     <img src="images/portfolio/img5.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
-                                        <h4>Portfolio Title</h4>
+                                        <h4>Puertas Levadizas</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
@@ -71,7 +71,7 @@
                                 <div class="portfolio-item">
                                     <img src="images/portfolio/img6.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
-                                        <h4>Portfolio Title</h4>
+                                        <h4>Puertas Cortafuegos</h4>
                                         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
