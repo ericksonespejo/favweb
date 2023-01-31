@@ -20,21 +20,15 @@
                </div>
                <div class="col-md-7">
                    <div class="about-text">
-                       <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.</p>
-                       <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                       <p>Nos adaptamos a cualquier tipo de negocio sea cual sea el sector.</p>
+                       <p>En Favessa disponemos de la más amplia gama de colores y acabados en puertas industriales enrollables, lo que nos permite la personalización total del producto, convirtiendo a cada modelo en único y exclusivo para su uso en comercios e industrias.</p>
+                       <p>Las puertas enrollables son la solución perfecta para ahorrar espacio, ya que su apertura se realiza mediante el enrollamiento de las lamas en la parte superior de la puerta. Gracias a esta opción ocupan un espacio mínimo.</p>
                    </div>
                    
-                   <div class="about-list">
-                       <h4>Some important Feature</h4>
-                       <ul>
-                           <li><i class="fa fa-check-square"></i>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</li>
-                           <li><i class="fa fa-check-square"></i>Lorem ipsum dolor sit amet, consectetur adipiscing adipiscing.</li>
-                           <li><i class="fa fa-check-square"></i>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan.</li>
-                           <li><i class="fa fa-check-square"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                           <li><i class="fa fa-check-square"></i>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</li>
-                           <li><i class="fa fa-check-square"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                       </ul>
-                       
+                   <div class="about-text">
+                       <h4>Nuestras soluciones de uso industrial</h4>
+                       <p>Las puertas enrollables industriales se utilizan tanto como primer acceso al edificio como dentro de las instalaciones. Son una solución práctica y segura para acceder de forma automática </p>
+                       <p>Así mismo, también ofrecen una gran variedad de diseños y acabados para que puedan ajustarse a cualquier gusto o necesidad. Del mismo modo, <b>nuestras puertas son de alta resistencia a la corrosión y las precipitaciones</b>, por lo que aseguran una gran durabilidad.</p>
                        <h4>More Feature</h4>
                        <ul>
                            <li><i class="fa fa-check-square"></i>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</li>
