@@ -29,12 +29,12 @@
                        <h4>Nuestras soluciones de uso industrial</h4>
                        <p>Las puertas enrollables industriales se utilizan tanto como primer acceso al edificio como dentro de las instalaciones. Son una solución práctica y segura para acceder de forma automática </p>
                        <p>Así mismo, también ofrecen una gran variedad de diseños y acabados para que puedan ajustarse a cualquier gusto o necesidad. Del mismo modo, <b>nuestras puertas son de alta resistencia a la corrosión y las precipitaciones</b>, por lo que aseguran una gran durabilidad.</p>
-                       <h4>More Feature</h4>
+                       <h4>Puertas enrollables de aluminio:</h4>
+                       <p>Son una interesante solución para comercios al facilitar la integración del cerramiento con la decoración de la tienda. Disponemos de 3 tipos de lamas.</p>
                        <ul>
-                           <li><i class="fa fa-check-square"></i>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</li>
-                           <li><i class="fa fa-check-square"></i>Lorem ipsum dolor sit amet, consectetur adipiscing adipiscing.</li>
-                           <li><i class="fa fa-check-square"></i>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan.</li>
-                           <li><i class="fa fa-check-square"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                        <li><b>Lamas de seguridad:</b> Opacidad total, lacada al fuego con polvo de poliéster o anodizada.</li>
+                        <li><b>Lamas de troquel:</b> Simple o doble, permite la visión del interior del local.</li>
+                        <li><b>Lamas de troquel:</b> Ideal para escaparates, ya que favorecen la correcta ventilación del local, no tapan la visión interior y tiene la seguridad de la lama opaca.</li>
                        </ul>
                    </div>
                    
