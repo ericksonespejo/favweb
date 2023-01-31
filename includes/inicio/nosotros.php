@@ -11,7 +11,7 @@
             <div class="row">
                <div class="col-md-5">
                    <div class="about-img">
-                       <img src="images/corporate1.jpg" class="img-responsive" alt="About images">
+                       <img src="images/puertas-enrollables-favessa.jpg" class="img-responsive" alt="About images">
                        <div class="head-text">
                            <p>Las puertas enrollables son la solución perfecta para ahorrar espacio y ganar seguridad en tu local o garaje, por esta razón se utilizan tanto en el ámbito industrial como en el residencial.</p>
                            <span>Gerente, Walter Sahuanay</span>
