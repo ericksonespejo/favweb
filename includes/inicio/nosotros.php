@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title text-center wow fadeInDown" data-wow-duration="2s" data-wow-delay="50ms">
-                        <h2 class="hvr-underline-from-center">Sobre Nosotros</h2>
+                        <h2 class="hvr-underline-from-center">Puertas Enrollables</h2>
                     </div>                        
                 </div>
             </div>
@@ -13,7 +13,7 @@
                    <div class="about-img">
                        <img src="images/corporate1.jpg" class="img-responsive" alt="About images">
                        <div class="head-text">
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis metus vitae ligula elementum ut luctus lorem facilisis.</p>
+                           <p>Las puertas enrollables son la solución perfecta para ahorrar espacio y ganar seguridad en tu local o garaje, por esta razón se utilizan tanto en el ámbito industrial como en el residencial.</p>
                            <span>CEO, Themebean</span>
                        </div>
                    </div>
