@@ -14,7 +14,7 @@
                        <img src="images/corporate1.jpg" class="img-responsive" alt="About images">
                        <div class="head-text">
                            <p>Las puertas enrollables son la solución perfecta para ahorrar espacio y ganar seguridad en tu local o garaje, por esta razón se utilizan tanto en el ámbito industrial como en el residencial.</p>
-                           <span>Gerente, Walter Shawanay</span>
+                           <span>Gerente, Walter Sawanay</span>
                        </div>
                    </div>
                </div>
