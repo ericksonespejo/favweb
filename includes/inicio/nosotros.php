@@ -34,7 +34,7 @@
                        <ul>
                         <li><b>Lamas de seguridad:</b> Opacidad total, lacada al fuego con polvo de poliéster o anodizada.</li>
                         <li><b>Lamas de troquel:</b> Simple o doble, permite la visión del interior del local.</li>
-                        <li><b>Lamas de troquel:</b> Ideal para escaparates, ya que favorecen la correcta ventilación del local, no tapan la visión interior y tiene la seguridad de la lama opaca.</li>
+                        <li><b>Lamas microperforadas:</b> Ideal para escaparates, ya que favorecen la correcta ventilación del local, no tapan la visión interior y tiene la seguridad de la lama opaca.</li>
                        </ul>
                    </div>
                    
