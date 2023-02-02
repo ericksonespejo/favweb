@@ -5,6 +5,7 @@
 
 
         <!-- Start Header Section -->
+        <div class="slider-container"></div>
         <div class="banner">
             <div class="overlay">
                 <div class="container">
@@ -30,8 +31,8 @@
        <!-- testimonios -->
        <?php include_once 'includes/inicio/testimonios.php';?> 
        <?php include_once 'includes/inicio/clientes-logos.php';?> 
-        
-        
+        <!--script para el slider  -->
+       <?php include_once 'includes/inicio/inicio.php';?> 
         
         
 

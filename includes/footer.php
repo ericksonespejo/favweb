@@ -13,7 +13,7 @@
                         
                         <div class="footer-address">
                             <ul>
-                                <li class="footer-contact"><i class="fa fa-home"></i>Prolog. Javier Prado este, &nbsp; Av. Monteverde Cdra. 1, &nbsp; Asoc. Augusto Salazar Bondy, &nbsp; MZ. C, &nbsp; lote 12, &nbsp; Ate. bf  bg1h bhb  bgbgrrbb g4b g41cbg 1cbgf b cgf11</li>
+                                <li class="footer-contact"><i class="fa fa-home"></i>Prolog. Javier Prado este, &nbsp; Av. Monteverde Cdra. 1, &nbsp; Asoc. Augusto Salazar Bondy, &nbsp; MZ. C, &nbsp; lote 12, &nbsp; Ate.</li>
                                 <li class="footer-contact"><i class="fa fa-envelope"></i><a href="#">ventas@favessa.com.pe</a></li>
                                 <li class="footer-contact"><i class="fa fa-phone"></i>+51 948 500 076</li>
                                 <li class="footer-contact"><i class="fa fa-globe"></i><a href="http://favessa.com.pe" target="_blank">www.favessa.com.pe</a></li>
