@@ -5,7 +5,12 @@
 
 
         <!-- Start Header Section -->
-        <div class="slider-container"></div>
+        <section class="section">
+        <div class="section-container">
+            <h1 class="section-title">Slider Simple</h1>
+            <div class="slider-container"></div>
+        </div>
+    </section>
         <div class="banner">
             <div class="overlay">
                 <div class="container">
@@ -32,7 +37,8 @@
        <?php include_once 'includes/inicio/testimonios.php';?> 
        <?php include_once 'includes/inicio/clientes-logos.php';?> 
         <!--script para el slider  -->
-       <?php include_once 'includes/inicio/inicio.php';?> 
+       <script src="includes/inicio/database.js"></script>
+       <script src="includes/inicio/script.js"></script>
         
         
 
