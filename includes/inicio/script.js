@@ -1,4 +1,4 @@
-<script>
+
 window.addEventListener('load',function(){
 
 let itemIndex = 0,isPaused = false;
@@ -65,4 +65,3 @@ document.querySelectorAll(".dot").forEach((e,dotIndex) =>{
     })
 });
 })
-</script>
