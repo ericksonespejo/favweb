@@ -2162,8 +2162,8 @@ h1.post-title a {
     overflow: hidden;
 }
 .slider-item{
-    height: 25rem;
-    max-height: 37.5rem;
+    height: 35rem;
+    max-height:47.5rem;
     
 }
 
