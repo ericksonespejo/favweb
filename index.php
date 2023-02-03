@@ -7,7 +7,6 @@
         <!-- Start Header Section -->
         <section class="section">
         <div class="section-container">
-            <h1 class="section-title">Slider Simple</h1>
             <div class="slider-container"></div>
         </div>
     </section>
