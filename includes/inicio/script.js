@@ -23,7 +23,11 @@ function renderItem(state, dotIndex){
     document.querySelector(".slider-item").innerHTML = `
         <div class = "item-background ${animationClass}" style = "background: url(${sliderDb[itemIndex].src}) no-repeat center/cover;"></div>
         <div class="item-title__container">
-            <h2 class ="item-title__title">${sliderDb[itemIndex].title}</h2>
+            <div class="intro-text">
+            <p>Puertas enrollables FAVESSA Solución para brindar <br> seguridad a tu negocio.</p>
+                        <a href="#feature" class="page-scroll btn btn-primary">Leer Más</a>
+                <h2 class ="item-title__title">${sliderDb[itemIndex].title}</h2>
+                </div>
         </div>
     `;
 
