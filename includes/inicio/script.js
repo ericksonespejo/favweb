@@ -28,9 +28,9 @@ function renderItem(state, dotIndex){
         </div>
     `;
 
-    document.querySelectorAll(".dot").forEach((e,index,parent) =>{
-        e.classList.remove("dot-active") & parent[itemIndex].classList.add("dot-active");        
-    });
+    // document.querySelectorAll(".dot").forEach((e,index,parent) =>{
+    //     e.classList.remove("dot-active") & parent[itemIndex].classList.add("dot-active");        
+    // });
 }
 
 function pagination(){
