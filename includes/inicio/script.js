@@ -25,7 +25,7 @@ function renderItem(state, dotIndex){
         <div class="item-title__container">
             <div class="intro-text">
             <p>Puertas enrollables FAVESSA Solución para brindar <br> seguridad a tu negocio.</p>
-                        <a href="#feature" class="page-scroll btn btn-primary">Leer Más</a>
+                        <a href="${sliderDb[itemIndex].url}" class="page-scroll btn btn-primary">Leer Más</a>
                 <h2 class ="item-title__title">${sliderDb[itemIndex].title}</h2>
                 </div>
         </div>
