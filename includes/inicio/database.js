@@ -1,30 +1,30 @@
 const sliderDb = [
     {
-      title:"Titulo de ejemplo uno",
+      title:"Favessa especialistas en automatización de de puertas",
       src:"https://source.unsplash.com/random/?bussines"
     },
     {
-      title:"Titulo de ejemplo dos",
+      title:"Puertas Enrollables",
       src:"https://source.unsplash.com/random/?tech"
     },
     {
-      title:"Titulo de ejemplo tres",
+      title:"Venta de motores para automatización de puertas",
       src:"https://source.unsplash.com/random/?cars"
     },
     {
-      title:"Titulo de ejemplo cuatro",
+      title:"Puertas Batientes",
       src:"https://source.unsplash.com/random/?bikes"
     },
     {
-      title:"Titulo de ejemplo cinco",
+      title:"Puertas Corredizas",
       src:"https://source.unsplash.com/random/?houses"
     },
     {
-      title:"Titulo de ejemplo seis",
+      title:"Puertas Elevadizas",
       src:"https://source.unsplash.com/random/?peets"
     },
     {
-      title:"Titulo de ejemplo siete",
+      title:"Puertas seccionales",
       src:"https://source.unsplash.com/random"
     },
   
