@@ -10,17 +10,7 @@
             <div class="slider-container"></div>
         </div>
     </section>
-        <div class="banner">
-            <div class="overlay">
-                <div class="container">
-                    <div class="intro-text">
-                        <h1>Somos especialistas en <span>Puertas enrollables</span></h1>
-                        <p>Puertas enrollables FAVESSA Solución para brindar <br> seguridad a tu negocio.</p>
-                        <a href="#feature" class="page-scroll btn btn-primary">Leer Más</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
         <!-- End Header Section -->
         
         
