@@ -7,8 +7,10 @@ function active($currect_page){
   }
 }
 ?>
-<header class="clearfix">
-        
+<header class="clearfix ">
+        <div class="container">
+
+        </div>
             <!-- Start Top Bar -->
             <div class="container">
                 <div class="row">
@@ -53,7 +55,7 @@ function active($currect_page){
             <!-- End Top Bar -->
         
             <!-- Start  Logo & Naviagtion  -->
-            <div class="navbar navbar-default navbar-top">
+            <div class="navbar navbar-default navbar-top fondo__azul">
                 <div class="container">
                     <div class="navbar-header">
                         <!-- Stat Toggle Nav Link For Mobiles -->
@@ -61,7 +63,7 @@ function active($currect_page){
                             <i class="fa fa-bars"></i>
                         </button>
                         <!-- End Toggle Nav Link For Mobiles -->
-                        <a class="navbar-brand" href="index.php"><img class="logo__img" src="images/logo/logoFavessa.png" alt="" srcset=""></a>
+                        <a class="navbar-brand" href="index.php"><img class="logo__img" src="images/logo/favessa-logo.png" alt="" srcset=""></a>
                     </div>
                     <div class="navbar-collapse collapse">
                         

@@ -1,7 +1,12 @@
 
         
         <!-- Start Footer Section -->
+        <div class="ovalo__chevere">
+                <div class="ovalo_izquierda"></div>
+                <div class="ovalo_derecha"></div>
+            </div>
         <section id="footer-section" class="footer-section">
+            
             <div class="container">
                 <div class="row">
                     <div class="col-md-3">
@@ -113,7 +118,7 @@
         </div>
         <!-- End CCopyright Section -->
         
-        
+        </main>
         
        <!-- Sulfur JS File -->
         <script src="js/jquery-2.1.3.min.js"></script>
