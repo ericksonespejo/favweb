@@ -2284,7 +2284,7 @@ textarea {
     font-size: 3rem;
     height: 4rem;
     padding: 0 1.5rem;
-    background: red;
+    background: #181B4F;
     font-weight: bold;
     color:white;
     top: 45%;
@@ -2299,7 +2299,7 @@ textarea {
 }
 
 .next-item:hover, .prev-item:hover{
-    background:#cccc;
+    background:#FAB713;
 }
 
 .prev-item:after{
