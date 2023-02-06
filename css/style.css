@@ -557,9 +557,9 @@ a.navbar-brand {
 #about-section {
     padding-top: 80px;
     padding-bottom: 80px;
-    background: url(../images/parallax/bg-01.jpg) no-repeat;
+    /* background: url(../images/parallax/bg-01.jpg) no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; */
 }
 
 #about-section-2 {
