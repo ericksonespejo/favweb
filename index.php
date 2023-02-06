@@ -6,7 +6,7 @@
 
 <!-- Start Header Section -->
 <section class="section">
-    <div class="section-container  col-md-12 col-md-offset-12">
+    <div class="section-container">
         <div class="slider-container"></div>
     </div>
 </section>
