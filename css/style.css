@@ -2334,6 +2334,8 @@ textarea {
     background: #cccc;
     padding: 0.4rem;
     font-size: 0rem;
+    height: 14px;
+    width: 14px;
     border-radius: 3.125rem;
 }
 
