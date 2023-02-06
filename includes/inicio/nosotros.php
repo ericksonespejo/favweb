@@ -1,5 +1,5 @@
  <!-- Start About Us Section -->
- <section id="about-section" class="about-section animate__animated animate__bounceInLeft"><!-- 20602859569 -->
+ <section id="about-section" class="about-section animate__animated animate__bounceInLeft">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
