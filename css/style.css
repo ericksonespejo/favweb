@@ -2348,3 +2348,14 @@ textarea {
         font-size: 2.5rem;   
     }
 }
+
+/* logo whatsapp */
+.whatsapp-container{
+    position: fixed;
+    bottom: 300px;
+    right: 0px;
+    width: 100px;
+}
+.whatsapp-row img{
+    width: 80px;
+}
