@@ -117,7 +117,7 @@
             </div><!-- /.container -->
         </div>
         <!-- End CCopyright Section -->
-        
+        <?php include_once 'includes/chatwp.php'; ?>
         </main>
         
        <!-- Sulfur JS File -->
