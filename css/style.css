@@ -109,8 +109,6 @@ h1, h2, h3, h4, h5, h6 {
     border-color: #222;
     color: #222;
 }
-
-
 /* Start Section Title */
 
 .section-title {
@@ -142,10 +140,6 @@ h1, h2, h3, h4, h5, h6 {
 .page-header h1 {
     color: #fff;
 }
-
-
-
-
 /*------------------------------------------*/
 /*	     02 - Header & Navigation
 /*------------------------------------------*/
@@ -274,12 +268,6 @@ ul.social-list li a:hover i {
 		opacity: 1;
 	}
 }
-
-
-
-
-
-
 
 /* ----------------------------------------------------------------*/
 /* Start Navigation Section */
@@ -455,16 +443,9 @@ a.navbar-brand {
     visibility: visible;
     margin-top: 0;
 }
-
-
-
-
-
 /*--------------------------------------------------*/
 /* Start Header Section                             */
 /*--------------------------------------------------*/
-
-
 
 .banner {
     text-align: center;
