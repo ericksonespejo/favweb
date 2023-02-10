@@ -18,7 +18,7 @@ body {
     font-smoothing: antialiased !important;
     vertical-align: baseline;
 }
-}
+
 strong, b {
 	font-weight: 600;
 }
@@ -541,13 +541,6 @@ a.navbar-brand {
 	border-color: #fff;
     color: #111;
 }
-
-
-
-
-
-
-
 
 /*---------------------------------------------------------*/
 /* Start About Us Section                                  */
@@ -1349,8 +1342,6 @@ h3.pricing-title {
 
 
 #testimonial-section {
-    background: url(../images/parallax/call-to.jpg) no-repeat;
-    background-size: cover;
     padding: 100px 0;
     color: #fff;
 }
