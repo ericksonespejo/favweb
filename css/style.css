@@ -2350,11 +2350,11 @@ textarea {
 }
 
 /* logo whatsapp */
-.whatsapp-container{  
+.whatsapp-row{
     position: fixed;
-    bottom: 200px;
-    right: 0px;
-    width: 100px;
+    bottom: 150px;
+    right: 0;
+    max-width: 80px;
 }
 .whatsapp-row img{
     width: 80px;
