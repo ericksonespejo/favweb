@@ -54,7 +54,7 @@
                                     <img src="images/portfolio/img4.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Puerta Corredizas</h4>
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
+                                        <p>Los motores para puertas correderas se utilizan casi exclusivamente en los accesos exteriores en cuanto a sector residencial se refiere. Son ideales para este papel...</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -64,7 +64,7 @@
                                     <img src="images/portfolio/img5.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
                                         <h4>Puertas Levadizas</h4>
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
+                                        <p>Las puertas levadizas permiten una amplia apertura de la zona de de colocación de los recipientes sin interferir con la zona de tráfico.</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
@@ -73,8 +73,8 @@
                                 <div class="portfolio-item">
                                     <img src="images/portfolio/img6.jpg" class="img-responsive" alt="" />
                                     <div class="portfolio-caption">
-                                        <h4>Puertas Cortafuegos</h4>
-                                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
+                                        <h4>Puertas Industriales</h4>
+                                        <p>Actuan como aislantes térmica y acústicamente, especialmente diseñadas para su uso en almacenes, centros logísticos y otros...</p>
                                         <a href="#" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
