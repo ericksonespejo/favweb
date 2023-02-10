@@ -2352,7 +2352,7 @@ textarea {
 /* logo whatsapp */
 .whatsapp-container{
     position: fixed;
-    bottom: 300px;
+    bottom: 200px;
     right: 0px;
     width: 100px;
 }
