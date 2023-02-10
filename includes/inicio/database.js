@@ -16,7 +16,7 @@ const sliderDb = [
     },
     {
       title:"Puertas Batientes",
-      src:"https://source.unsplash.com/random/?bikes",
+      src:"images/banner/puertas-batientes.jpeg",
       url:"http://favessa.pe"
     },
     {
