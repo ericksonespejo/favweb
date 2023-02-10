@@ -2355,6 +2355,10 @@ textarea {
     bottom: 150px;
     right: 0;
     max-width: 80px;
+    z-index: 999998;
+}
+.whatsapp-row a{
+    text-decoration: none;
 }
 .whatsapp-row img{
     width: 80px;
