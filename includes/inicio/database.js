@@ -6,12 +6,12 @@ const sliderDb = [
     },
     {
       title:"Puertas Enrollables",
-      src:"https://source.unsplash.com/random/?tech",
+      src:"images/banner/enrollables.jpeg",
       url:"http://favessa.pe"
     },
     {
       title:"Venta de motores para automatización de puertas",
-      src:"https://source.unsplash.com/random/?cars",
+      src:"images/banner/motores-puertas-automaticas.jpeg",
       url:"http://favessa.pe"
     },
     {
