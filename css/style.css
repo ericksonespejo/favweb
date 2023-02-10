@@ -2150,7 +2150,7 @@ textarea {
 }
 
 .logo__img{
-    max-width: 170px;
+    max-width: 160px;
 }
 
 .section-title{
@@ -2171,7 +2171,7 @@ textarea {
     overflow: hidden;
 }
 .slider-item{
-    height: 45rem;
+    height: 55rem;
     max-height: 57.5rem;
     
 }
