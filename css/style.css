@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
     -o-transition: all 0.3s;
     transition: all 0.3s;
 }
-
+/* rgb(250 183 19 / 72%) */
 .btn-cancel:hover {
     background: transparent;
     border-color: #222;

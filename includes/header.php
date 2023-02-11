@@ -99,3 +99,17 @@ function active($currect_page){
             <!-- End Header Logo & Naviagtion -->
             
         </header>
+
+        <!-- 
+https://cassado.com.pe/cerramientos/inicio/
+https://www.inkema.com/es/productos/fabricante-mesas-elevadoras-hidraulicas
+https://www.hormann.es/industria-comercio-sector-publico/puertas-industriales/puertas-seccionales-industriales/
+https://access.erreka.com/motores-puertas-correderas/
+https://www.teckentrup.biz/es/industrial/puertas-seccionales-industriales
+https://www.portis.es/productos
+https://www.escopce.com/puertas-seccionales.html
+https://access.erreka.com/motores-puertas-correderas/
+https://www.inkema.com/images/cms/catalogo-puertas-industriales.pdf
+
+
+         -->
