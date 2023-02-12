@@ -529,8 +529,6 @@ a.navbar-brand {
 
 
 #about-section {
-    background: url(../images/parallax/call-to.jpg) no-repeat;
-    background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
     /* background: url(../images/parallax/bg-01.jpg) no-repeat;
@@ -1261,8 +1259,6 @@ and (min-width : 551px){
 
 
 .pricing-section {
-    background: url(../images/parallax/call-to.jpg) no-repeat;
-    background-size: cover;
     padding-top: 80px;
     padding-bottom: 120px;
 }
@@ -1364,8 +1360,6 @@ h3.pricing-title {
 /*******************************************/
 
 #client-section {
-    background: url(../images/parallax/call-to.jpg) no-repeat;
-    background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
 }
