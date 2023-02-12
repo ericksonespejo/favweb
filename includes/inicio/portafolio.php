@@ -1,8 +1,3 @@
-<!-- favessa@gmail.com  -->
-<!-- *MFGD* -->
-<!-- JU87/@-ibfo! -->
-<!-- t5b4v0w7 -->
-<!-- JU87/@-ibfo CP -->
 <!-- Start Portfolio Section -->
  <section id="portfolio" class="portfolio-section-1">
             <div class="container">
