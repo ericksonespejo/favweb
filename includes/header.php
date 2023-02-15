@@ -81,6 +81,14 @@ function active($currect_page){
                             <li>
                                 <a class="<?php active('productos-puertas-automaticas.php');?>" href="productos-puertas-automaticas.php">Productos</a>
                             </li>
+                            <li>
+                                <a href="blog.html">Blog</a>
+                                <ul class="dropdown">
+                                    <li>
+                                        <a href="blog-item.html">Item Page</a>
+                                    </li>
+                                </ul>
+                            </li>
                             <li><a class="<?php active('contactenos.php');?>" href="contactenos.php">Contáctenos</a>
                             </li>
                         </ul>
@@ -91,3 +99,17 @@ function active($currect_page){
             <!-- End Header Logo & Naviagtion -->
             
         </header>
+
+        <!-- 
+https://cassado.com.pe/cerramientos/inicio/
+https://www.inkema.com/es/productos/fabricante-mesas-elevadoras-hidraulicas
+https://www.hormann.es/industria-comercio-sector-publico/puertas-industriales/puertas-seccionales-industriales/
+https://access.erreka.com/motores-puertas-correderas/
+https://www.teckentrup.biz/es/industrial/puertas-seccionales-industriales
+https://www.portis.es/productos
+https://www.escopce.com/puertas-seccionales.html
+https://access.erreka.com/motores-puertas-correderas/
+https://www.inkema.com/images/cms/catalogo-puertas-industriales.pdf
+
+
+         -->
