@@ -23,7 +23,6 @@
 <!-- servicios -->
 <?php include_once 'includes/inicio/servicios.php';?>
 <!-- testimonios -->
-<?php include_once 'includes/inicio/testimonios.php';?>
 <?php include_once 'includes/inicio/clientes-logos.php';?>
 <!--script para el slider  -->
 <script src="includes/inicio/database.js"></script>
