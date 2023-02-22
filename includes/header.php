@@ -73,9 +73,6 @@ function active($currect_page){
                                 <a class="<?php active('index.php');?>" href="index.php">Inicio</a>
                             </li>
                             <li>
-                                <a class="<?php active('sobre-nosotros.php');?>" href="sobre-nosotros.php">Sobre Nosotros</a>
-                            </li>
-                            <li>
                                 <a class="<?php active('servicios-puertas-enrollables.php');?>" href="servicios-puertas-enrollables.php">Servicios</a>
                             </li>
                             <li>
