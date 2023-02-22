@@ -4,8 +4,8 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-title text-center wow fadeInDown" data-wow-duration="2s" data-wow-delay="50ms">
-                            <h2 class="hvr-underline-from-center">Our Services</h2>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate</p>
+                            <h2 class="hvr-underline-from-center">Nuestros Servicios</h2>
+                            <p>Realizamos venta de motores, atención de emergencias las 24 horas</p>
                         </div>                        
                     </div>
                 </div>
