@@ -78,14 +78,6 @@ function active($currect_page){
                             <li>
                                 <a class="<?php active('productos-puertas-automaticas.php');?>" href="productos-puertas-automaticas.php">Productos</a>
                             </li>
-                            <li>
-                                <a href="blog.html">Blog</a>
-                                <ul class="dropdown">
-                                    <li>
-                                        <a href="blog-item.html">Item Page</a>
-                                    </li>
-                                </ul>
-                            </li>
                             <li><a class="<?php active('contactenos.php');?>" href="contactenos.php">Contáctenos</a>
                             </li>
                         </ul>
