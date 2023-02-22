@@ -10,56 +10,56 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-skyatlas"></i></a>
 				            <h2>Venta de motores para puertas automaticas</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-magic"></i></a>
 				            <h2>Atención de emergencias las 24 horas</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-gift"></i></a>
 				            <h2>RESPONSIVE DESIGN</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-diamond"></i></a>
 				            <h2>RESPONSIVE DESIGN</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-wordpress"></i></a>
 				            <h2>RESPONSIVE DESIGN</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-forumbee"></i></a>
 				            <h2>RESPONSIVE DESIGN</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-bicycle"></i></a>
 				            <h2>RESPONSIVE DESIGN</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-foursquare"></i></a>
 				            <h2>RESPONSIVE DESIGN</h2>
