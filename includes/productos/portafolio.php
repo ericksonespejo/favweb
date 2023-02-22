@@ -1,5 +1,16 @@
 <!-- Start Portfolio Section -->
- <section id="portfolio" class="portfolio-section-1">
+<?php $migaPan="Nuestros productos";?>
+
+        <!-- Start Header Section -->
+        <?php include_once 'includes/miga-pan.php'; ?>
+        <!-- End Header Section -->
+        
+        
+        
+        
+        
+        <!-- Start Portfolio Section -->
+        <section id="portfolio" class="portfolio-section-1">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -83,5 +94,6 @@
             </div>
         </section>
         <!-- End Portfolio Section -->
+
         
         
