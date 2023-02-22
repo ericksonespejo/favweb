@@ -97,7 +97,6 @@ https://access.erreka.com/motores-puertas-correderas/
 https://www.teckentrup.biz/es/industrial/puertas-seccionales-industriales
 https://www.portis.es/productos
 https://www.escopce.com/puertas-seccionales.html
-https://access.erreka.com/motores-puertas-correderas/
 https://www.inkema.com/images/cms/catalogo-puertas-industriales.pdf
 
 
