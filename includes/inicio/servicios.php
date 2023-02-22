@@ -13,14 +13,14 @@
                     <div class="col-md-3">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-skyatlas"></i></a>
-				            <h2>RESPONSIVE DESIGN</h2>
+				            <h2>Venta de motores para puertas automaticas</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
                     <div class="col-md-3">
                         <div class="services-post">
 				            <a href="#"><i class="fa fa-magic"></i></a>
-				            <h2>RESPONSIVE DESIGN</h2>
+				            <h2>Atención de emergencias las 24 horas</h2>
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
