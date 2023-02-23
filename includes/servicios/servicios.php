@@ -50,6 +50,18 @@
                     reiciendis minima, facilis ab.</p>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-6">
+                <i>logo-icono</i>
+                <h2>Mantenimiento</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
+                    Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
+                    reiciendis minima, facilis ab.</p>
+            </div>
+            <div class="col-md-6">
+                <img src="" alt="" srcset="">
+            </div>
+        </div>
     </div>
 </section>
 
