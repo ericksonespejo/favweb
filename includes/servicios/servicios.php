@@ -167,63 +167,7 @@
     </section>
     <!-- End Pricing Section -->
         
-        
-        
-        <!-- Start Testimonial Section -->
-        <section id="testimonial-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="testimonial-wrapper">
-                            <div class="testimonial-item">
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
-                                <img src="images/team/team-1.jpg" alt="Testimonial images">
-                                <h5>John Doe</h5>
-                                <div class="desgnation">CEO, ThemeBean</div>
-                            </div>
-                            <div class="testimonial-item">
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                                <img src="images/team/team-2.jpg" alt="Testimonial images">
-                                <h5>John Doe</h5>
-                                <div class="desgnation">CEO, ThemeBean</div>
-                            </div>
-                            <div class="testimonial-item">
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                                <img src="images/team/team-3.jpg" alt="Testimonial images">
-                                <h5>John Doe</h5>
-                                <div class="desgnation">CEO, ThemeBean</div>
-                            </div>
-                            <div class="testimonial-item">
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                                <img src="images/team/team-4.jpg" alt="Testimonial images">
-                                <h5>John Doe</h5>
-                                <div class="desgnation">CEO, ThemeBean</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Testimonial Section -->
-        
-        
         <!-- Start Client Section -->
-        <div id="client-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="client-box">
-                            <ul class="client-list">
-                                <li><a href="#"><img src="images/clients/client1.png" class="img-responsive" alt="Clients Logo"></a></li>
-                                <li><a href="#"><img src="images/clients/client2.png" class="img-responsive" alt="Clients Logo"></a></li>
-                                <li><a href="#"><img src="images/clients/client3.png" class="img-responsive" alt="Clients Logo"></a></li>
-                                <li><a href="#"><img src="images/clients/client4.png" class="img-responsive" alt="Clients Logo"></a></li>
-                                <li><a href="#"><img src="images/clients/client5.png" class="img-responsive" alt="Clients Logo"></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include_once 'includes/inicio/clientes-logos.php';?>
         <!-- End Client Section -->
         
