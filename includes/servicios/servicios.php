@@ -14,9 +14,10 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid pattern_bg">
-                <div class="container">
-                <div class="row">
+    </div>
+    <div class="container-fluid pattern_bg">
+        <div class="container">
+            <div class="row">
                 <div class="col-md-6 serv_list_img">
                     <img src="images/servicios/fabricacion-de-puertas-automaticas.jpg"
                         alt="Fabricación de puertas levadisas">
@@ -25,7 +26,8 @@
                     <img class="servi_list_info_icon" src="images/servicios/icons/factory.png"
                         alt="Fabricación de puertas automáticas">
                     <h2>Fabricación</h2>
-                    <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+                    <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Quisquam
                         vero beatae optio iusto fugit.
                         Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
                         reiciendis minima, facilis ab.</p>
@@ -36,7 +38,8 @@
                     <img class="servi_list_info_icon" src="images/servicios/icons/team.png"
                         alt="Montaje e Instalación de puertas automáticas">
                     <h2>Montaje e Instalación</h2>
-                    <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+                    <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Quisquam
                         vero beatae optio iusto fugit.
                         Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
                         reiciendis minima, facilis ab.</p>
@@ -55,7 +58,8 @@
                         <h2>Reparaciones</h2>
                         <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             Quisquam vero beatae optio iusto fugit.
-                            Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
+                            Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error
+                            natus
                             reiciendis minima, facilis ab.</p>
                     </div>
                 </div>
@@ -66,7 +70,8 @@
                         <h2>Mantenimiento</h2>
                         <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                             Quisquam vero beatae optio iusto fugit.
-                            Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
+                            Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error
+                            natus
                             reiciendis minima, facilis ab.</p>
                     </div>
                     <div class="col-md-6 serv_list_img">
@@ -74,10 +79,10 @@
                             alt="Mantenimiento de puertas automáticas">
                     </div>
                 </div>
-                </div>
-            
             </div>
-        </div>
+
+    </div>
+
 </section>
 
 <!-- Start Client Section -->
