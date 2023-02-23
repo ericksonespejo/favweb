@@ -18,10 +18,10 @@
             <div class="col-md-6">
                 <img src="images/servicios/fabricacion-de-puertas-automaticas.jpg" alt="Fabricación de puertas levadisas" srcset="images/servicios/fabricacion-de-puertas-automaticas.jpg">
             </div>
-            <div class="col-md-6">
-                <img src="images/servicios/icons/factory.png" alt="Fabricación de puertas automáticas">
+            <div class="col-md-6 servi_list_info">
+                <img class="servi_list_info_icon" src="images/servicios/icons/factory.png" alt="Fabricación de puertas automáticas">
                 <h2>Fabricación</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
+                <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
                     Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
                     reiciendis minima, facilis ab.</p>
             </div>
