@@ -26,11 +26,10 @@
                     <img class="servi_list_info_icon" src="images/servicios/icons/factory.png"
                         alt="Fabricación de puertas automáticas">
                     <h2>Fabricación</h2>
-                    <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Quisquam
-                        vero beatae optio iusto fugit.
-                        Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
-                        reiciendis minima, facilis ab.</p>
+                    <p class="servi_list_info_text">Fabricamos cualquier tipo de puerta de garaje, residencial,
+                         centros comerciales, empresas mineras para cualquier medida y adaptada a cualquier 
+                        tipología de construcción. Nos adaptamos a las necesidades de nuestros clientes. Elija entre nuestro catálogo o 
+                        explíquenos su proyecto. Favessa le construye la puerta que necesita.</p>
                 </div>
             </div>
             <div class="row">
@@ -38,11 +37,10 @@
                     <img class="servi_list_info_icon" src="images/servicios/icons/team.png"
                         alt="Montaje e Instalación de puertas automáticas">
                     <h2>Montaje e Instalación</h2>
-                    <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Quisquam
-                        vero beatae optio iusto fugit.
-                        Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
-                        reiciendis minima, facilis ab.</p>
+                    <p class="servi_list_info_text">Nuestro equipo se ocupa de todo el proceso que incluye la fabricación, nuestros profesionales realizan 
+                        la toma de medidas en su casa, tienda, centro comercial, empresa minera, residencia,
+                        la instalación y el montaje de las puertas y los automatismos de las puertas. Dejamos su puerta 
+                        funcionando desde el primer día..</p>
                 </div>
                 <div class="col-md-6 serv_list_img">
                     <img src="images/servicios/garage-door.jpg" alt="Puertas de garage"">
@@ -56,11 +54,9 @@
                         <img class="servi_list_info_icon" src="images/servicios/icons/tools.png"
                             alt="Reparación de puertas automáticas">
                         <h2>Reparaciones</h2>
-                        <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            Quisquam vero beatae optio iusto fugit.
-                            Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error
-                            natus
-                            reiciendis minima, facilis ab.</p>
+                        <p class="servi_list_info_text">Somos fabricantes y por tanto conocemos la mecánica de cualquier tipo de puerta de garaje, centro comercial, residencia, emprea minera. 
+                            Nuestros especialistas están capacitados para reparar cualquier puerta automática de garaje o mecanismo de la competencia. 
+                            No hay secretos para nuestros técnicos.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -68,11 +64,9 @@
                         <img class="servi_list_info_icon" src="images/servicios/icons/maintenance.png"
                             alt="Mantenimiento de puertas automáticas">
                         <h2>Mantenimiento</h2>
-                        <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            Quisquam vero beatae optio iusto fugit.
-                            Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error
-                            natus
-                            reiciendis minima, facilis ab.</p>
+                        <p class="servi_list_info_text">Nuestro especialista de Favessa le ofrece un servicio profesional para que la puerta de garaje de su 
+                            vivienda o negocio o centro comercial o empresa minera no sea nunca un problema. 
+                            Nos ocupamos de su mantenimiento para que esté en óptimas condiciones todos los días del año, sin excepciones.</p>
                     </div>
                     <div class="col-md-6 serv_list_img">
                         <img src="images/servicios/mantenimiento-de-puertas-automaticas.webp"
