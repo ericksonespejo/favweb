@@ -2353,6 +2353,10 @@ textarea {
     text-align:center;
     float: left;
 }
+.servi_list_info img{
+    position:relative;
+    left: 43%;
+}
 .servi_list_info h2{
     width: 100%;
     text-align: center;
