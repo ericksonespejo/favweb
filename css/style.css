@@ -2384,7 +2384,7 @@ textarea {
     .servi_list_info{
         width: 100%;
     }
-    ..servi_list_info_icon {
+    .servi_list_info_icon {
         width: 51%;
     }
     .servi_list_info img {
