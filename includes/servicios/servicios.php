@@ -16,7 +16,7 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <img src="" alt="" srcset="">
+                <img src="images/servicios/fabricacion-de-puertas-automaticas.jpg" alt="Fabricación de puertas levadisas" srcset="images/servicios/fabricacion-de-puertas-automaticas.jpg">
             </div>
             <div class="col-md-6">
                 <i>logo-icono</i>
