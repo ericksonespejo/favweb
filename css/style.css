@@ -2357,12 +2357,7 @@ textarea {
     position:relative;
     left: 43%;
 }
-@media (max-width:480px){
-    .servi_list_info_icon{
-        width: 100%;
-    }
-    .s
-}
+
 .servi_list_info h2{
     width: 100%;
     text-align: center;
@@ -2381,7 +2376,13 @@ textarea {
 .servi_list li:nth-child(even) .serv_list_img {
     float: right;
 }
-.servi_list_imag img {
+.serv_list_img img {
     max-width: 100%;
     vertical-align: middle;
+}
+@media (max-width:480px){
+    .servi_list_info_icon{
+        width: 100%;
+    }
+    .s
 }
