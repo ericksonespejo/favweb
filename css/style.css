@@ -2385,10 +2385,10 @@ textarea {
         width: 100%;
     }
     .servi_list_info_icon {
-        width: 51%;
+        width: 40%;
     }
     .servi_list_info img {
         position: relative;
-        left: 40%;
+        left: 25%;
     }
 }
