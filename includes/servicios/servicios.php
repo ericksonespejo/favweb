@@ -18,8 +18,10 @@
             <div class="col-md-6">
                 <img src="" alt="" srcset="">
             </div>
-            <div class="col-md-6">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate velit iste nobis, reprehenderit facilis ducimus. Quasi, nostrum, rem pariatur ad officiis praesentium sequi consectetur dolore, veniam enim quisquam impedit animi!
+            <div class="">
+                <i>logo-icono</i>
+                <h2>Fabricación</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit. Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus reiciendis minima, facilis ab.</p>
             </div>
         </div>
     </div>
