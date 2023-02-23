@@ -19,7 +19,6 @@
                 <img src="images/servicios/fabricacion-de-puertas-automaticas.jpg" alt="Fabricación de puertas levadisas" srcset="images/servicios/fabricacion-de-puertas-automaticas.jpg">
             </div>
             <div class="col-md-6">
-                <i>logo-icono</i>
                 <h2>Fabricación</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
                     Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
@@ -28,7 +27,6 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <i>logo-icono</i>
                 <h2>Montaje e Instalación</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
                     Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
@@ -43,7 +41,6 @@
                 <img src="images/servicios/Automatic-Door-repair.jpg" alt="Reparación de puertas automáticas" srcset="images/servicios/Automatic-Door-repair.jpg">
             </div>
             <div class="col-md-6">
-                <i>logo-icono</i>
                 <h2>Reparaciones</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
                     Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
@@ -52,7 +49,6 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <i>logo-icono</i>
                 <h2>Mantenimiento</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
                     Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
