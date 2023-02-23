@@ -2384,8 +2384,11 @@ textarea {
     .servi_list_info{
         width: 100%;
     }
-    .servi_list_info_icon{
-        width: 70%;
+    ..servi_list_info_icon {
+        width: 51%;
     }
-    .s
+    .servi_list_info img {
+        position: relative;
+        left: 20%;
+    }
 }
