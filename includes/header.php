@@ -21,7 +21,7 @@ function active($currect_page){
                                 <div class="col-md-6">
                                     <!-- Start Contact Info -->
                                     <ul class="contact-details">
-                                        <li><a href="#"><i class="fa fa-phone"></i> +51 948 500 076</a>
+                                        <li><a href="tel:+51948500076"><i class="fa fa-phone"></i> +51 948 500 076</a>
                                         </li>
                                         <li><a href="#"><i class="fa fa-envelope-o"></i> ventas@favessa.com.pe</a>
                                         </li> 
