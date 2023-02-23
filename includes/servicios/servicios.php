@@ -40,7 +40,7 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <img src="" alt="" srcset="">
+                <img src="images/servicios/Automatic-Door-repair.jpg" alt="Reparación de puertas automáticas" srcset="images/servicios/Automatic-Door-repair.jpg">
             </div>
             <div class="col-md-6">
                 <i>logo-icono</i>
