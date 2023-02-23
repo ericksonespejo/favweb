@@ -43,7 +43,7 @@
                 <img src="images/servicios/Automatic-Door-repair.jpg" alt="Reparación de puertas automáticas"">
             </div>
             <div class="col-md-6 servi_list_info">
-                <img src="images/servicios/icons/tools.png" alt="Reparación de puertas automáticas">
+                <img class="servi_list_info_icon" src="images/servicios/icons/tools.png" alt="Reparación de puertas automáticas">
                 <h2>Reparaciones</h2>
                 <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
                     Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
@@ -52,7 +52,7 @@
         </div>
         <div class="row">
             <div class="col-md-6 servi_list_info">
-                <img src="images/servicios/icons/maintenance.png" alt="Mantenimiento de puertas automáticas">
+                <img class="servi_list_info_icon" src="images/servicios/icons/maintenance.png" alt="Mantenimiento de puertas automáticas">
                 <h2>Mantenimiento</h2>
                 <p class="servi_list_info_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vero beatae optio iusto fugit.
                     Expedita iure, accusamus illum recusandae provident adipisci excepturi quae est error natus
