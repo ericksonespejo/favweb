@@ -35,7 +35,7 @@
                     reiciendis minima, facilis ab.</p>
             </div>
             <div class="col-md-6">
-                <img src="" alt="" srcset="">
+                <img src="images/servicios/garage-door.jpg" alt="Puertas de garage" srcset="images/servicios/garage-door.jpg">
             </div>
         </div>
         <div class="row">
