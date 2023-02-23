@@ -2396,3 +2396,8 @@ textarea {
     background-image: url('../images/servicios/pattern/pattern-bg.png');
     background-repeat: repeat;
 }
+
+.centrado_todo{
+    text-align: center;
+    padding: 30px 40px;
+}
