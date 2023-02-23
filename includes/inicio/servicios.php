@@ -52,20 +52,6 @@
 							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
 				        </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="services-post">
-				            <a href="#"><i class="fa fa-bicycle"></i></a>
-				            <h2>RESPONSIVE DESIGN</h2>
-							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
-				        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="services-post">
-				            <a href="#"><i class="fa fa-foursquare"></i></a>
-				            <h2>RESPONSIVE DESIGN</h2>
-							<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
-				        </div>
-                    </div>
                 </div>
             </div>
         </section>
