@@ -33,13 +33,13 @@ function active($currect_page){
                                     <!-- Start Social Links -->
                                     <ul class="social-list">
                                         <li>
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/" target="blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="https://pe.linkedin.com/" target="blank"><i class="fa fa-linkedin"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#"><i class="fa fa-instagram"></i></a>
+                                            <a href="https://www.instagram.com/" target="blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <!-- End Social Links -->
