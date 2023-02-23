@@ -16,7 +16,7 @@
         </div>
         <div class="row">
             <div class="col-md-6 serv_list_img">
-                <img src="images/servicios/fabricacion-de-puertas-automaticas.jpg" alt="Fabricación de puertas levadisas" srcset="images/servicios/fabricacion-de-puertas-automaticas.jpg">
+                <img src="images/servicios/fabricacion-de-puertas-automaticas.jpg" alt="Fabricación de puertas levadisas">
             </div>
             <div class="col-md-6 servi_list_info">
                 <img class="servi_list_info_icon" src="images/servicios/icons/factory.png" alt="Fabricación de puertas automáticas">
@@ -35,12 +35,12 @@
                     reiciendis minima, facilis ab.</p>
             </div>
             <div class="col-md-6 serv_list_img">
-                <img src="images/servicios/garage-door.jpg" alt="Puertas de garage" srcset="images/servicios/garage-door.jpg">
+                <img src="images/servicios/garage-door.jpg" alt="Puertas de garage"">
             </div>
         </div>
         <div class="row">
             <div class="col-md-6 serv_list_img">
-                <img src="images/servicios/Automatic-Door-repair.jpg" alt="Reparación de puertas automáticas" srcset="images/servicios/Automatic-Door-repair.jpg">
+                <img src="images/servicios/Automatic-Door-repair.jpg" alt="Reparación de puertas automáticas"">
             </div>
             <div class="col-md-6 servi_list_info">
                 <img src="images/servicios/icons/tools.png" alt="Reparación de puertas automáticas">
@@ -59,7 +59,7 @@
                     reiciendis minima, facilis ab.</p>
             </div>
             <div class="col-md-6 serv_list_img">
-                <img src="images/servicios/mantenimiento-de-puertas-automaticas.webp" alt="Mantenimiento de puertas automáticas" srcset="images/servicios/mantenimiento-de-puertas-automaticas.webp">
+                <img src="images/servicios/mantenimiento-de-puertas-automaticas.webp" alt="Mantenimiento de puertas automáticas">
             </div>
         </div>
     </div>
