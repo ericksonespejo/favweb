@@ -2392,3 +2392,6 @@ textarea {
         left: 25%;
     }
 }
+.pattern_bg{
+    background-image: url('../images/servicios/pattern/pattern-bg.png');
+}

@@ -4,7 +4,7 @@
 <?php include_once 'includes/miga-pan.php'; ?>
 <!-- End Header Section -->
 
-<section>
+<section class="pattern_bg">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
