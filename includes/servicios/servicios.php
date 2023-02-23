@@ -59,7 +59,7 @@
                     reiciendis minima, facilis ab.</p>
             </div>
             <div class="col-md-6">
-                <img src="" alt="" srcset="">
+                <img src="images/servicios/mantenimiento-de-puertas-automaticas.webp" alt="Mantenimiento de puertas automáticas" srcset="images/servicios/mantenimiento-de-puertas-automaticas.webp">
             </div>
         </div>
     </div>
