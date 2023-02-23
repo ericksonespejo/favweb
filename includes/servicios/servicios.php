@@ -14,9 +14,9 @@
                 </div>
             </div>
         </div>
-        <div class="pattern_bg">
-
-            <div class="row">
+        <div class="container-fluid pattern_bg">
+                <div class="container">
+                <div class="row">
                 <div class="col-md-6 serv_list_img">
                     <img src="images/servicios/fabricacion-de-puertas-automaticas.jpg"
                         alt="Fabricación de puertas levadisas">
@@ -74,6 +74,8 @@
                             alt="Mantenimiento de puertas automáticas">
                     </div>
                 </div>
+                </div>
+            
             </div>
         </div>
 </section>
