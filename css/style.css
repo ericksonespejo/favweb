@@ -2340,7 +2340,7 @@ textarea {
 .servi_list_info{
     width: 50%;
     min-height: 380px;
-    padding: 80px 60px 0 60px;
+    padding: 50px 60px 0 60px;
     position: relative;
     display: block;
     overflow:hidden;
