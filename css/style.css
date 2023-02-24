@@ -2403,4 +2403,8 @@ textarea {
 }
 .bg-jumbotron{
     background-color: #12143e;
+    color:white;
+}
+.bg-jumbotron p{
+    color: white;
 }
