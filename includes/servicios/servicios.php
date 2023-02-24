@@ -85,7 +85,7 @@
 
 </section>
 <section>
-    <div class="jumbotron centrado_todo">
+    <div class="jumbotron centrado_todo label-success">
         <h1>Atendemos emergencias las 24 horas del día</h1>
         <p>Contamos con personal técnico profesional eficaces que se 
             encuentran en constante capacitación<br> y a la vanguardia para  cubrir y dar soluciones de cualquier emergencia de nuestro cliente.</p>
