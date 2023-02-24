@@ -1501,7 +1501,7 @@ h3.pricing-title {
 /* Start Copyright Section */
 
 .copyright-section {
-    border-top: 1px solid #12143e;
+    border-top: 1px solid #181B4F;
     font-size: 12px;
     padding: 20px 0;
     background: #181B4F;
@@ -1513,7 +1513,7 @@ h3.pricing-title {
 }
 
 .copyright-section a {
-    color: #7f7f7f;
+    color: #ffffff;
 }
 
 .copyright-section a:hover {
@@ -1526,7 +1526,7 @@ h3.pricing-title {
 }
 
 .copyright-menu li a {
-    color: #7f7f7f;
+    color: #ffffff;
     font-weight: 500;
 }
 
