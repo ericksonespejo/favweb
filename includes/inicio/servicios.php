@@ -1,6 +1,8 @@
-<section>
+
+<!-- Start Service Section -->
+<section id="service-section">
     <div class="container">
-        <div class="row">
+    <div class="row">
             <div class="col-md-12">
                 <div class="section-title text-center wow fadeInDown" data-wow-duration="2s" data-wow-delay="50ms">
                     <h2 class="hvr-underline-from-center">Nuestros Servicios</h2>
@@ -8,17 +10,6 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-4">
-
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Start Service Section -->
-<section id="service-section">
-    <div class="container">
-        
         <div class="row">
             <div class="col-md-4">
                 <div class="services-post">
