@@ -189,62 +189,6 @@
                 <!-- Start Sidebar Section -->
                 <div class="col-md-4 sidebar right-sidebar">
                     
-                    
-                    <!-- Start Flickr Widget -->
-                    <div class="widget flickr-widget">
-                        
-                        <div class="section-heading-2">
-                            <h3 class="section-title">
-                                <span>Flickr Stream</span>
-                            </h3>
-                        </div>
-                        
-                        <ul class="flickr-list">
-                            <li>
-                                <a href="images/flickr/8.jpg" data-lightbox="picture-1">
-                                    <img src="images/flickr/8.jpg" alt="" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="images/flickr/7.jpg" data-lightbox="picture-2">
-                                    <img src="images/flickr/7.jpg" alt="" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="images/flickr/6.jpg" data-lightbox="picture-3">
-                                    <img src="images/flickr/6.jpg" alt="" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="images/flickr/5.jpg" data-lightbox="picture-4">
-                                    <img src="images/flickr/5.jpg" alt="" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="images/flickr/4.jpg" data-lightbox="picture-5">
-                                    <img src="images/flickr/4.jpg" alt="" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="images/flickr/3.jpg" data-lightbox="picture-6">
-                                    <img src="images/flickr/3.jpg" alt="" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="images/flickr/2.jpg" data-lightbox="picture-7">
-                                    <img src="images/flickr/2.jpg" alt="" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="images/flickr/1.jpg" data-lightbox="picture-8">
-                                    <img src="images/flickr/1.jpg" alt="" class="img-responsive">
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- End Flickr Widget -->
-                    
-                    
                     <!-- Start Recent Post Widget -->
                     <div class="widget widget-recent-post">
                         
