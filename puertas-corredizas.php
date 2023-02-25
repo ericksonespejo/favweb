@@ -5,7 +5,7 @@
 
 
 <!-- Start Header Section -->
-<?php $migaPan="Nuestros servicios";?>
+<?php $migaPan="Puertas Corredizas";?>
 
 <!-- Start Header Section -->
 <?php include_once 'includes/miga-pan.php'; ?>
