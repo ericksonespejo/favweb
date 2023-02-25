@@ -15,7 +15,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid pattern_bg">
+    <div class="container-fluid pattern_bg mb" style="margin-boton:-60px">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 serv_list_img">
