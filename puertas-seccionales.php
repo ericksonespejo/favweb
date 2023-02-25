@@ -152,29 +152,6 @@
                     <!-- End Blog categories widget -->
                     
                     
-                    <!-- Start Tag Cloud Widget -->
-                    <div class="widget widget-tags">
-                        
-                        <div class="section-heading-2">
-                            <h3 class="section-title">
-                                <span>Popular Tags</span>
-                            </h3>
-                        </div>
-                        
-                        <div class="tagcloud">
-                            <a href="#">Charity</a>
-							<a href="#">Children</a>
-							<a href="#">Education</a>
-							<a href="#">Elderly</a>
-							<a href="#">Humanity</a>
-							<a href="#">Women Rights</a>
-				        </div>
-                        
-                    </div>
-                    <!-- End Tag Cloud Widget -->
-                    
-                    
-                    
                 </div>
                 <!-- End Sidebar Section -->
                 
