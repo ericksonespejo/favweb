@@ -3,7 +3,12 @@
 <?php include_once 'includes/head.php';?>
 <?php include_once 'includes/header.php'?>
 
-<?php include_once 'includes/servicios/servicios.php'; ?>
+<!-- Start Header Section -->
+<?php $migaPan="Nuestros servicios";?>
+
+<!-- Start Header Section -->
+<?php include_once 'includes/miga-pan.php'; ?>
+<!-- End Header Section -->
         
 
 <?php include_once 'includes/footer.php'; ?>

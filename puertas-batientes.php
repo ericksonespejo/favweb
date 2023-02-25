@@ -5,12 +5,10 @@
 
 
 <!-- Start Header Section -->
-<section class="section">
-    <div class="section-container">
-        <div class="slider-container"></div>
-    </div>
-</section>
+<?php $migaPan="Nuestros servicios";?>
 
+<!-- Start Header Section -->
+<?php include_once 'includes/miga-pan.php'; ?>
 <!-- End Header Section -->
 
 
