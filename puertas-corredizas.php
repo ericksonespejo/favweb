@@ -116,42 +116,6 @@
                     </div>
                     <!-- End Recent Post Widget -->
                     
-                    
-                    <!-- Start Blog categories widget -->
-                    <div class="widget widget-categories">
-                        
-                        <div class="section-heading-2">
-                            <h3 class="section-title">
-                                <span>Blog Categories</span>
-                            </h3>
-                        </div>
-                        
-                        <ul>
-                            <li>
-                                <i class="fa fa-angle-double-right"></i>
-                                <a href="#">Blog</a>
-                                <a href="#" class="cat-counter">(4)</a>
-                            </li>
-                            <li>
-                                <i class="fa fa-angle-double-right"></i>
-                                <a href="#">News</a>
-                                <a href="#" class="cat-counter">(0)</a>
-                            </li>
-                            <li>
-                                <i class="fa fa-angle-double-right"></i>
-                                <a href="#">Charity</a>
-                                <a href="#" class="cat-counter">(0)</a>
-                            </li>
-                            <li>
-                                <i class="fa fa-angle-double-right"></i>
-                                <a href="#">Fashion</a>
-                                <a href="#" class="cat-counter">(0)</a>
-                            </li>
-                        </ul>
-                        
-                    </div>
-                    <!-- End Blog categories widget -->
-                    
                 </div>
                 <!-- End Sidebar Section -->
                 
