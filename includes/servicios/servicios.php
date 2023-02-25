@@ -5,8 +5,7 @@
 <!-- End Header Section -->
 
 <section>
-    <div class="container-fluid pattern_bg mb" style="margin-boton:-60px">
-        <div class="container">
+    <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title text-center wow fadeInDown" data-wow-duration="2s" data-wow-delay="50ms">
@@ -15,6 +14,9 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="container-fluid pattern_bg mb" style="margin-boton:-60px">
+        <div class="container">
             <div class="row">
                 <div class="col-md-6 serv_list_img">
                     <img src="images/servicios/fabricacion-de-puertas-automaticas.jpg"
