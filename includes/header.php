@@ -76,7 +76,7 @@ function active($currect_page){
                                 <a class="<?php active('servicios-puertas-enrollables.php');?>" href="servicios-puertas-enrollables.php">Servicios</a>
                             </li>
                             <li>
-                                <a class="<?php active('motores-de.puertas-automaticas.php');?>" href="motores-de.puertas-automaticas.php">Motores</a>
+                                <a class="<?php active('motores-de.puertas-automaticas.php');?>" href="motores-de-puertas-automaticas.php">Motores</a>
                             </li>
                             <li>
                                 <a class="<?php active('productos-puertas-automaticas.php');?>" href="productos-puertas-automaticas.php">Productos</a>
