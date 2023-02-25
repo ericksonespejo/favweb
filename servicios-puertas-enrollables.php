@@ -1,10 +1,10 @@
-<?php $title="Favessa, somos especialistas en puertas enrollables automaticas";?>
-<?php $description="Fabricamos puertas enrollables a medida para centros comerciales, tiendas, minerias";?>
+<?php $title="Puertas Automáticas Enrollables en Lima";?>
+<?php $description="Puertas Automáticas Enrollables para diferentes comercios, empresas, centros comerciales, empresas mineras";?>
 <?php include_once 'includes/head.php';?>
 <?php include_once 'includes/header.php'?>
 
 <!-- Start Header Section -->
-<?php $migaPan="Nuestros servicios";?>
+<?php $migaPan="Puertas Enrollables";?>
 
 <!-- Start Header Section -->
 <?php include_once 'includes/miga-pan.php'; ?>
