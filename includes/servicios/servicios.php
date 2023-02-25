@@ -42,7 +42,7 @@
                         fabricación, nuestros profesionales realizan
                         la toma de medidas en su casa, tienda, centro comercial, empresa minera, residencia,
                         la instalación y el montaje de las puertas y los automatismos de las puertas. Dejamos su puerta
-                        funcionando desde el primer día..</p>
+                        funcionando desde el primer día.</p>
                 </div>
                 <div class="col-md-6 serv_list_img">
                     <img src="images/servicios/garage-door.jpg" alt="Puertas de garage"">
