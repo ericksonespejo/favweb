@@ -24,23 +24,25 @@
                 <div class="post-img">
                     <img src="images/blog/blog-02.jpg" class="img-responsive" alt="Blog image">
                 </div>
-                <h1 class="post-title"><a href="#">Nulla facilisi integer lacinia sollicitudin massa</a></h1>
-                <p class="post-content">Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet
-                    risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in,
-                    ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. Vestibulum
-                    nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus
-                    quis, aliquet eget, justo.</p>
-                <p class="post-content">Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum
-                    magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-                    cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet
-                    augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra
-                    nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices
-                    enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper.</p>
-                <p class="post-content">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-                    himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a
-                    cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a
-                    tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu
-                    magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. </p>
+                <h1 class="post-title"><a href="#">Puertas seccionales de garaje</a></h1>
+                <p class="post-content">Las puertas seccionales se abren verticalmente y quedan bajo el techo para
+                    ahorrar espacio. Gracias a este principio de diseño, ofrecen el máximo espacio, tanto en el interior
+                    como delante del garaje. Las puertas seccionales de garaje pueden montarse en cualquier hueco del
+                    garaje y ofrecen hasta 14 cm más de ancho de paso libre que las puertas basculantes. Además, están
+                    óptimamente estanqueizadas con las juntas con elasticidad permanente y resistentes a la intemperie
+                    en todo el perímetro. </p>
+                <p class="post-content">Las puertas de garaje seccionales se caracterizan por su elegante diseño y
+                    variedad de colores, lo que hace que combinen perfectamente con el diseño de tu casa.
+                    <br>
+                    El espesor de sus paneles y su aislamiento hacen de esta puerta la mejor opción, si se busca lograr
+                    una buena eficiencia energética.
+                    <br>
+                    La selección del motor idónea para la puerta seccional se hace en función de los metros cuadrados de
+                    la puerta.
+                    <br>
+                    Ofrecemos una amplia gama en cuanto a espesores y tipos de acabados de panel de gama alta,
+                    priorizando el coeficiente de transmisión térmica de las soluciones.
+                </p>
 
                 <!-- End Blog Post -->
 

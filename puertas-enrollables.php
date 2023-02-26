@@ -24,7 +24,12 @@
                 <div class="post-img">
                     <img src="images/blog/blog-02.jpg" class="img-responsive" alt="Blog image">
                 </div>
-                <h1 class="post-title"><a href="#">Nulla facilisi integer lacinia sollicitudin massa</a></h1>
+                <h1 class="post-title"><a href="#">Puertas automáticas enrollables</a></h1>
+                <p class="post-content">De gran versatilidad, los cierres enrollables no solo son un elemento de
+                    seguridad, también tiene un alto componente estético para la entrada de tu garaje, centro comercial,
+                    tienda.</p>
+                <p class="post-content">Las puertas enrollables son muy utilizadas para el cierre de accesos y
+                    escaparates en tiendas.</p>
 
                 <p class="post-content">Las puertas enrollables son la solución perfecta para ahorrar espacio , ya que
                     su apertura se realiza mediante el enrollamiento de la cortina metálica en la parte superior de la
@@ -56,7 +61,7 @@
 
         <!-- Start Sidebar Section -->
         <div class="col-md-4 sidebar right-sidebar">
-        <?php include_once 'includes/post-recientes.php'; ?>
+            <?php include_once 'includes/post-recientes.php'; ?>
 
         </div>
         <!-- End Sidebar Section -->
