@@ -26,9 +26,12 @@
                         </div>
                         <h1 class="post-title"><a href="#">Nulla facilisi integer lacinia sollicitudin massa</a></h1>
                         
-                        <p class="post-content">Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus quis, aliquet eget, justo.</p>
-                        <p class="post-content">Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper.</p>
-                        <p class="post-content">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. </p>
+                        <p class="post-content">Las puertas enrollables son la solución perfecta para ahorrar espacio ,  ya que su apertura se realiza mediante el enrollamiento de la cortina metálica en la parte superior de la puerta.
+</p>
+                        <p class="post-content">Fabricamos nuestra puertas con balletas  de acero galvanizado.  Nuestras puertas son de alta resistencia a la corrosión , interperie , de gran resistencia mecánica y de larga duración al desgaste  , por lo que aseguran una gran durabilidad , no requiere de mayor mantenimiento. Ideal para locales comerciales , almacenes y residenciales 
+</p>
+                        <p class="post-content">En FAVESSA adaptamos la fabricación de nuestras puertas de ambientes industriales a las medias que necesites y ofrecemos una amplia gama de accesorios a nivel de activación , control y seguridad
+</p>
                         
                         
                     </div>
