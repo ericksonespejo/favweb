@@ -58,6 +58,7 @@
         <div class="col-md-4 sidebar right-sidebar">
         <?php include_once 'includes/footer.php'; ?>
 
+        </div>
         <!-- End Sidebar Section -->
 
     </div>
