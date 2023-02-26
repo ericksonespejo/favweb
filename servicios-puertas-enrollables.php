@@ -23,11 +23,11 @@
                         <div class="post-img">
                             <img src="images/blog/blog-02.jpg" class="img-responsive" alt="Blog image">
                         </div>
-                        <h1 class="post-title"><a href="#">Nulla facilisi integer lacinia sollicitudin massa</a></h1>                    
+                        <h1 class="post-title"><a href="#">¿Porqué elegir una puerta batiente?</a></h1>                    
                         
-                        <p class="post-content">Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus quis, aliquet eget, justo.</p>
-                        <p class="post-content">Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper.</p>
-                        <p class="post-content">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. </p>
+                        <p class="post-content">Este tipo de puertas están diseñadas con el fin de aportar diseño, seguridad y, sobre todo, funcionalidad.</p>
+                        <p class="post-content">En cuanto a diseño, son altamente personalizables, lo que las convierte en una opción perfecta para que se integren en el entorno en el que vayan a ubicarse.</p>
+                        <p class="post-content">Por otro lado, el mayor punto a favor que tienen las puertas automáticas batientes es su funcionalidad, ya que son más adaptables que la mayoría de puertas del mercado y sus posibilidades de instalación son variadas.</p>
                        
                         
                     </div>
