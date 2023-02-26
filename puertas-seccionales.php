@@ -31,13 +31,13 @@
                     garaje y ofrecen hasta 14 cm más de ancho de paso libre que las puertas basculantes. Además, están
                     óptimamente estanqueizadas con las juntas con elasticidad permanente y resistentes a la intemperie
                     en todo el perímetro. </p>
-                <p class="post-content">Las puertas de garaje seccionales se caracterizan por su elegante diseño y
-                    variedad de colores, lo que hace que combinen perfectamente con el diseño de tu casa.</p>
+                <p class="post-content">Las <b>puertas de garaje seccionales se caracterizan por su elegante diseño y
+                    variedad de colores</b>, lo que hace que combinen perfectamente con el diseño de tu casa.</p>
                 <p class="post-content">
                     El espesor de sus paneles y su aislamiento hacen de esta puerta la mejor opción, si se busca lograr
                     una buena eficiencia energética.</p>
                 <p class="post-content">
-                    La selección del motor idónea para la puerta seccional se hace en función de los metros cuadrados de
+                    <b>La selección del motor idónea para la puerta seccional</b> se hace en función de los metros cuadrados de
                     la puerta.</p>
                 <p class="post-content">
                     Ofrecemos una amplia gama en cuanto a espesores y tipos de acabados de panel de gama alta,
