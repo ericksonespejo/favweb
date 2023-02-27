@@ -24,7 +24,7 @@
                         <div class="post-img">
                             <img src="images/blog/blog-02.jpg" class="img-responsive" alt="Blog image">
                         </div>
-                        <h1 class="post-title"><a href="#">Nulla facilisi integer lacinia sollicitudin massa</a></h1>
+                        <h1 class="post-title"><a href="#">Motores para puertas automáticas Seccionales</a></h1>
                         
                         
                         <p class="post-content">Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus quis, aliquet eget, justo.</p>
@@ -35,26 +35,7 @@
                     </div>
                     <!-- End Blog Post -->
                     
-                    
-                    <!-- Start Blog Author Section -->
-                    <div class="blog-author">
-                        <h3>About The Author</h3>
-                        <div class="media">
-                            <div class="media-left">
-                                <a href="#">
-                                    <img class="media-object" src="images/user.png" alt="...">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading"><a href="#">Super User</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Blog Author Section -->
-                    
-                    
-                    
+                   <?php include_once 'includes/sobre-favessa.php';?> 
                     
                 </div>
                 <!-- End Blog Body Section -->
