@@ -48,6 +48,78 @@
                 </p>
 
                 <!-- End Blog Post -->
+                <!-- gallery -->
+                <div class="container">
+<section id="album">
+	<ul class="lb-album">
+		<li>
+			<a href="#image-1">
+				<img src="https://tympanus.net/Tutorials/CSS3Lightbox/images/thumbs/1.jpg" alt="image01">
+				<span>Pointe</span>
+			</a>
+			<div class="lb-overlay" id="image-1">
+				<img src="https://tympanus.net/Tutorials/CSS3Lightbox/images/full/1.jpg" alt="image01">
+				<div>
+					<h3>pointe <span>/point/</span></h3>
+					<p>Dance performed on the tips of the toes</p>
+					<a href="#image-10" class="lb-prev">Prev</a>
+					<a href="#image-2" class="lb-next">Next</a>
+				</div>
+				<a href="#album" class="lb-close">x</a>
+			</div>
+		</li>
+		<li>
+			<a href="#image-2">
+				<img src="https://tympanus.net/Tutorials/CSS3Lightbox/images/thumbs/2.jpg" alt="image02">
+				<span>Port de bras</span>
+			</a>
+			<div class="lb-overlay" id="image-2">
+				<img src="https://tympanus.net/Tutorials/CSS3Lightbox/images/full/2.jpg" alt="image02">
+				<div>							
+					<h3>port de bras <span>/ˌpôr də ˈbrä/</span></h3>
+					<p>An exercise designed to develop graceful movement and disposition of the arms</p>
+					<a href="#image-1" class="lb-prev">Prev</a>
+					<a href="#image-3" class="lb-next">Next</a>
+				</div>
+				<a href="#album" class="lb-close">x</a>
+			</div>
+		</li>
+		<li>
+			<a href="#image-3">
+				<img src="https://tympanus.net/Tutorials/CSS3Lightbox/images/thumbs/3.jpg" alt="image03">
+				<span>Plié</span>
+			</a>
+			<div class="lb-overlay" id="image-3">
+				<img src="https://tympanus.net/Tutorials/CSS3Lightbox/images/full/3.jpg" alt="image03">
+				<div>							
+					<h3>pli·é <span>/plēˈā/</span></h3>
+					<p>A movement in which a dancer bends the knees and straightens them again</p>
+					<a href="#image-2" class="lb-prev">Prev</a>
+					<a href="#image-4" class="lb-next">Next</a>
+				</div>
+				<a href="#album" class="lb-close">x</a>
+			</div>
+		</li>
+		<li>
+			<a href="#image-4">
+				<img src="https://tympanus.net/Tutorials/CSS3Lightbox/images/thumbs/4.jpg" alt="image04">
+				<span>Adagio</span>
+			</a>
+			<div class="lb-overlay" id="image-4">
+				<img src="https://tympanus.net/Tutorials/CSS3Lightbox/images/full/4.jpg" alt="image04">
+				<div>							
+					<h3>a·da·gio <span>/əˈdäjō/</span></h3>
+					<p>A movement or composition marked to be played adagio</p>
+					<a href="#image-3" class="lb-prev">Prev</a>
+					<a href="#image-5" class="lb-next">Next</a>
+				</div>
+				<a href="#album" class="lb-close">x</a>
+			</div>
+		</li>
+	</ul>
+</section>
+</div>
+                <!-- end gallery -->
 
             </div>
             <!-- End Blog Post -->
@@ -67,6 +139,3 @@
 <!-- End Blog Page Section -->
 
 <?php include_once 'includes/footer.php'; ?>
-Enviar mensaje de correo electrónico de prueba: Outlook no puede conectar con el servidor de correo saliente (SMTP). Si
-sigue recibiendo este mensaje, póngase en contacto con el administrador del servidor o con el proveedor de acceso a
-Internet (ISP).
