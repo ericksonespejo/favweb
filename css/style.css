@@ -2613,4 +2613,8 @@ x:-o-prefocus, .lb-overlay img {
 .new__gallery{
     display: flex;
 }
+.new__gallery li{
+    margin: 3px;
+    padding: 10px;
+}
 /* end gallery */
