@@ -2415,10 +2415,10 @@ textarea {
 }
 
 /* gallery */
+
 .lb-album{
     display: table;
 	margin: 0 auto;
-	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
 }
 .lb-album li {
 	float: left;
