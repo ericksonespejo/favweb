@@ -35,7 +35,7 @@
         
         <!-- Lightbox CSS -->
         <link rel="stylesheet" type="text/css" href="css/lightbox.css">
-
+        <link rel="stylesheet" type="text/css" href="css/dist/css/lightbox.min.css">
         <!-- Sulfur CSS Styles  -->
         <link rel="stylesheet" type="text/css" href="css/style.css">
 

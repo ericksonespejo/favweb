@@ -131,7 +131,7 @@
         <script src="js/lightbox.min.js"></script>
         <script src="js/count-to.js"></script>
         <script src="js/styleswitcher.js"></script>
-        
+        <script src="css/dist/js/lightbox.min.js"></script>
         <script src="js/map.js"></script>
         <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
         <script src="js/script.js"></script> 
