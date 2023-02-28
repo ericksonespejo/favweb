@@ -145,7 +145,7 @@
 </ul> -->
 
 <div>
-    <ul>
+    <ul class="new__gallery">
         <li><a href="http://lokeshdhakar.com/projects/lightbox2/images/image-3.jpg" data-lightbox="example-set"
                 data-title="Click the right half of the image to move forward.">
                 <img class="example-image" src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-3.jpg"

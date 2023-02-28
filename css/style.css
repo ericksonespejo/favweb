@@ -2610,4 +2610,7 @@ x:-o-prefocus, .lb-overlay img {
     height: 100%;
 }
 
+.new__gallery{
+    display: flex;
+}
 /* end gallery */
