@@ -46,21 +46,20 @@
 
                 <!-- End Blog Post -->
 
-
-                <?php include_once 'includes/sobre-favessa.php'; ?>
-
-
-
-            </div>
-            <!-- End Blog Body Section -->
-
-            <!-- Start Sidebar Section -->
-            <div class="col-md-4 sidebar right-sidebar">
-                <?php include_once 'includes/post-recientes.php'; ?>
-            </div>
-            <!-- End Sidebar Section -->
+                </div>
+            <!-- End Blog Post -->
+            <?php include_once 'includes/sobre-favessa.php'; ?>
 
         </div>
+        <!-- End Blog Body Section -->
+
+        <!-- Start Sidebar Section -->
+        <div class="col-md-4 sidebar right-sidebar">
+            <?php include_once 'includes/post-recientes.php'; ?>
+        </div>
+        <!-- End Sidebar Section -->
+
+    </div>
     </div>
     <!-- End Blog Page Section -->
 
