@@ -22,7 +22,8 @@
             <!-- Start Blog post -->
             <div class="single-blog-post">
                 <div class="post-img">
-                    <img src="images/blog/seccionales/puerta-automatica-seccional.jpg" class="img-responsive" alt="Blog image">
+                    <img src="images/blog/seccionales/puerta-automatica-seccional.jpg" class="img-responsive"
+                        alt="Blog image">
                 </div>
                 <h1 class="post-title"><a href="#">Puertas seccionales de garaje</a></h1>
                 <p class="post-content">Las puertas seccionales se abren verticalmente y quedan bajo el techo para
@@ -32,13 +33,15 @@
                     óptimamente estanqueizadas con las juntas con elasticidad permanente y resistentes a la intemperie
                     en todo el perímetro. </p>
                 <p class="post-content">Las <b>puertas de garaje seccionales se caracterizan por su elegante diseño y
-                    variedad de colores</b>, lo que hace que combinen perfectamente con el diseño de tu casa.</p>
+                        variedad de colores</b>, lo que hace que combinen perfectamente con el diseño de tu casa.</p>
                 <p class="post-content">
                     El espesor de sus paneles y su aislamiento hacen de esta puerta la mejor opción, si se busca lograr
                     una buena eficiencia energética.</p>
                 <p class="post-content">
-                    <b>La selección del motor idónea para la puerta seccional</b> se hace en función de los metros cuadrados de
-                    la puerta.</p>
+                    <b>La selección del motor idónea para la puerta seccional</b> se hace en función de los metros
+                    cuadrados de
+                    la puerta.
+                </p>
                 <p class="post-content">
                     Ofrecemos una amplia gama en cuanto a espesores y tipos de acabados de panel de gama alta,
                     priorizando el coeficiente de transmisión térmica de las soluciones.
@@ -46,7 +49,7 @@
 
                 <!-- End Blog Post -->
 
-                </div>
+            </div>
             <!-- End Blog Post -->
             <?php include_once 'includes/sobre-favessa.php'; ?>
 
@@ -60,7 +63,10 @@
         <!-- End Sidebar Section -->
 
     </div>
-    </div>
-    <!-- End Blog Page Section -->
+</div>
+<!-- End Blog Page Section -->
 
-    <?php include_once 'includes/footer.php'; ?>
+<?php include_once 'includes/footer.php'; ?>
+Enviar mensaje de correo electrónico de prueba: Outlook no puede conectar con el servidor de correo saliente (SMTP). Si
+sigue recibiendo este mensaje, póngase en contacto con el administrador del servidor o con el proveedor de acceso a
+Internet (ISP).
