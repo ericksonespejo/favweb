@@ -1767,9 +1767,10 @@ h1.post-title a {
 }
 
 .single-blog-post p.post-content {
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
     margin-top: 20px;
     display: inline-block;
+    text-align: justify;
 }
 
 
@@ -2407,4 +2408,8 @@ textarea {
 }
 .bg-jumbotron p{
     color: white;
+}
+
+.about-text{
+    text-align: justify;
 }

@@ -20,7 +20,7 @@
                                     <div class="portfolio-caption">
                                         <h4>Puertas Enrollables</h4>
                                         <p>Adaptamos la fabricación de nuestras puertas a las medidas que necesites, ofrecemos una amplia gama de accesorios a nivel de activación, control y seguridad.</p>
-                                        <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                        <a href="puertas-automaticas-enrollables.php" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
                             </li>
@@ -30,7 +30,7 @@
                                     <div class="portfolio-caption">
                                         <h4>Puertas Batientes</h4>
                                         <p>Las puertas automáticas batientes son ideales para garajes de grandes dimensiones donde el movimiento de la puerta no interfiera con el estacionamiento del vehículo.</p>
-                                        <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                        <a href="puertas-automaticas-batientes.php" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
                             </li>
@@ -40,7 +40,7 @@
                                     <div class="portfolio-caption">
                                         <h4>Puertas Seccionales</h4>
                                         <p>El sistema seccional se caracteriza por ocupar el mínimo espacio posible, las vías de deslizamiento laterales y paralelas al techo para que se deslice verticalmente.</p>
-                                        <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                        <a href="puertas-automaticas-seccionales.php" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
                             </li>
@@ -50,7 +50,7 @@
                                     <div class="portfolio-caption">
                                         <h4>Puerta Corredizas</h4>
                                         <p>Los motores para puertas correderas se utilizan casi exclusivamente en los accesos exteriores en cuanto a sector residencial se refiere. Son ideales para este papel...</p>
-                                        <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                        <a href="puertas-puertas-automaticas-seccionales.phpcorredizas.php" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
                             </li>
@@ -60,7 +60,7 @@
                                     <div class="portfolio-caption">
                                         <h4>Puertas Levadizas</h4>
                                         <p>Las puertas levadizas permiten una amplia apertura de la zona de de colocación de los recipientes sin interferir con la zona de tráfico.</p>
-                                        <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                        <a href="puertas-automaticas-levadizas.php" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
                             </li>
@@ -70,7 +70,7 @@
                                     <div class="portfolio-caption">
                                         <h4>Puertas Industriales</h4>
                                         <p>Actuan como aislantes térmica y acústicamente, especialmente diseñadas para su uso en almacenes, centros logísticos y otros...</p>
-                                        <a href="#" class="link-2"><i class="fa fa-link"></i></a>
+                                        <a href="puertas-industriales.php" class="link-2"><i class="fa fa-link"></i></a>
                                     </div>
                                 </div>
                             </li>
