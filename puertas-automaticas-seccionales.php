@@ -22,7 +22,7 @@
             <!-- Start Blog post -->
             <div class="single-blog-post">
                 <div class="post-img">
-                    <img src="images/blog/blog-02.jpg" class="img-responsive" alt="Blog image">
+                    <img src="images/blog/seccionales/puerta-automatica-seccional.jpg" class="img-responsive" alt="Blog image">
                 </div>
                 <h1 class="post-title"><a href="#">Puertas seccionales de garaje</a></h1>
                 <p class="post-content">Las puertas seccionales se abren verticalmente y quedan bajo el techo para
