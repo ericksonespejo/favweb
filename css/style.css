@@ -1635,7 +1635,7 @@ h1.post-title a {
 }
 
 .blog-post p.post-content {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .blog-post a.btn-primary {
@@ -1669,7 +1669,7 @@ h1.post-title a {
 
 
 .single-blog-post {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .single-blog-post .post-img {
