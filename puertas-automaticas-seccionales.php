@@ -49,7 +49,6 @@
 
                 <!-- End Blog Post -->
                 <!-- gallery -->
-                <section>
 				<ul class="lb-album">
 					<li>
 						<a href="#image-1">
@@ -192,7 +191,6 @@
 						</div>
 					</li>
 				</ul>
-			</section>
                 <!-- end gallery -->
             </div>
             <!-- End Blog Post -->
